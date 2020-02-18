@@ -1,2 +1,2 @@
 # UserAuth
-This ia a simple web application that includes user authentication and authorization using Json Web Token(JWT.
+A Web Application using Node.js and express; ensures user verification and authentication
